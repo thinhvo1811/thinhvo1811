@@ -1,9 +1,6 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Vo Quoc Thinh</h1>
 
-- ✍ I'm a fourth-year student at [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
-- ✍ I’m 21 years old.
-
 <br />
 
 ## 📫 How to reach me:
