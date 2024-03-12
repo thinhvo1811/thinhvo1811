@@ -38,6 +38,7 @@
   <img src="https://img.icons8.com/officel/48/java-eclipse.png"/>
   <img src="https://img.icons8.com/fluency/48/intellij-idea.png"/>
   <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/officel/48/react.png"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/java-web-token.png"/>
   <img src="https://img.icons8.com/color/48/docker.png"/>
