@@ -28,6 +28,7 @@
   <img src="https://img.icons8.com/fluency/48/html-5.png"/>
   <img src="https://img.icons8.com/plasticine/48/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/officel/48/java-eclipse.png"/>
   <img src="https://img.icons8.com/fluency/48/intellij-idea.png"/>
@@ -38,6 +39,7 @@
   <img src="https://img.icons8.com/color/48/docker.png"/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
 </p>
 
 ## Activities:
