@@ -40,6 +40,7 @@
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 </p>
 
 ## Activities:
